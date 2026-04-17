@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img "Responsive image" [ref=e4]
+    - heading "404 NOT FOUND" [level=4] [ref=e5]
+    - paragraph [ref=e6]: THE DOMAIN YOU ENTERED IS NOT RECOGNIZED. PLEASE CHECK THE SPELLING AND TRY AGAIN..
+    - heading "* * * * * * * * * *" [level=5] [ref=e7]
+    - paragraph [ref=e8]: This system/service is a property of OrangeHRM Inc. It is for authorized use only. Usage of this system is monitored and recorded by OrangeHRM system personnel and is advised that if such monitoring reveals possible evidence of criminal activity, OrangeHRM system personnel may provide the evidence from such monitoring to law enforcement officials. By using this system, all users acknowledge notice of, and agree to comply with, the OrangeHRM data security policy. Unauthorized or improper use of this system may result in administrative disciplinary action, civil charges/criminal penalties, and/or other sanctions as set forth in the OrangeHRM policy. By continuing to use/access this system you indicate your awareness of and consent to these terms and conditions of use.
+    - text: Disconnect IMMEDIATELY if you are not an authorized user!.
+  - contentinfo [ref=e9]:
+    - paragraph [ref=e10]: OrangeHRM Inc. © 2024, All Rights Reserved.

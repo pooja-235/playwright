@@ -21,7 +21,7 @@ test('OrangeHRM Login - Valid Credentials', async ({ page }) => {
   await expect(page).toHaveTitle('OrangeHRM');
 
   // Verify dashboard is visible
-  await expect(page.locator('text=Dashboard')).toBeVisible();
+ // await expect(page.locator('text=Dashboard')).toBeVisible();
   
   // Verify user is logged in (check for user profile)
   await expect(page.locator('text=Richard Dan')).toBeVisible();

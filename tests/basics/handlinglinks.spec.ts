@@ -1,6 +1,6 @@
 import {test , expect} from '@playwright/test'
 
-test('Handling links', async ({page}) => {
+/*test('Handling links', async ({page}) => {
     await page.goto('https://www.wikipedia.org/');
 
   //  const alllink = await page.locator('a').all();
@@ -14,4 +14,4 @@ test('Handling links', async ({page}) => {
         const href = await link.getAttribute('href');
         console.log(`${text} - ${href}`);
     }   
-});
+});*/

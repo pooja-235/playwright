@@ -1,0 +1,3 @@
+Total rows:40
+Total rows:6
+first col value:NIFTY 50

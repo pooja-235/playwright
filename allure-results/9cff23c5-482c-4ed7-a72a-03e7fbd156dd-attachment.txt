@@ -1,0 +1,77 @@
+All options:76
+Afrikaans - af
+Shqip - sq
+العربية - ar
+Asturianu - ast
+Azərbaycanca - az
+Български - bg
+閩南語 / Bân-lâm-gú - nan
+বাংলা - bn
+Беларуская - be
+Català - ca
+Čeština - cs
+Cymraeg - cy
+Dansk - da
+Deutsch - de
+Eesti - et
+Ελληνικά - el
+English - en
+Español - es
+Esperanto - eo
+Euskara - eu
+فارسی - fa
+Français - fr
+Galego - gl
+한국어 - ko
+Հայերեն - hy
+हिन्दी - hi
+Hrvatski - hr
+Bahasa Indonesia - id
+Italiano - it
+עברית - he
+ქართული - ka
+Ladin - lld
+Latina - la
+Latviešu - lv
+Lietuvių - lt
+Magyar - hu
+Македонски - mk
+Malagasy - mg
+मराठी - mr
+مصرى - arz
+Bahasa Melayu - ms
+Bahaso Minangkabau - min
+မြန်မာဘာသာ - my
+Nederlands - nl
+日本語 - ja
+Norsk (bokmål) - nb
+Norsk (nynorsk) - nn
+Нохчийн - ce
+Oʻzbekcha / Ўзбекча - uz
+Polski - pl
+Português - pt
+Қазақша / Qazaqşa / قازاقشا - kk
+Română - ro
+Simple English - en
+Sinugboanong Binisaya - ceb
+Slovenčina - sk
+Slovenščina - sl
+Српски / Srpski - sr
+Srpskohrvatski / Српскохрватски - sh
+Suomi - fi
+Svenska - sv
+Kiswahili - sw
+தமிழ் - ta
+Татарча / Tatarça - tt
+తెలుగు - te
+ภาษาไทย - th
+Тоҷикӣ - tg
+تۆرکجه - azb
+Türkçe - tr
+Українська - uk
+اردو - ur
+Tiếng Việt - vi
+Winaray - war
+中文 - zh
+Русский - ru
+粵語 - yue
